@@ -2,7 +2,7 @@
 
 
 
-### Tapırıq.
+### Tapşırıq.
 
 
 ##### 1. Bootstrapda son dərsdə keçdiklərimizi oxuyun(full).
